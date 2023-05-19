@@ -1,0 +1,105 @@
+.background-color{
+    background-color: rgb(23, 56, 23);
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+}
+
+.nav-link{
+    color: #ff8bff;
+    font-weight: 700;
+}
+.research-a{
+    color: #ff8bff; 
+    
+}
+.nav-link:hover{
+    color: #ff8bff;
+    cursor: pointer;
+    text-decoration: underline;
+}
+.research-a:hover{
+    color: #ff8bff;   
+}
+
+.over-view{
+    color: #e944c5;
+    font-weight: 700;
+}
+
+.dropdown-item{
+    color: #e944c5;
+    font-weight: 700;
+
+}
+
+.dropdown-item:hover{
+    color: #e944c5;
+    font-weight: 700;
+    text-decoration: underline;
+
+
+}
+
+.nav-search{
+    color: #ff8bff;
+    text-decoration: none;
+    font-weight: 700;
+    margin-right: 15px;
+}
+
+.nav-search:hover{
+    color: #ff8bff;
+    text-decoration: underline;
+    font-weight: 700;
+    cursor: pointer;
+
+}
+
+.sign-in{
+    border: none;
+    color: #ff8bff;
+    font-weight: 700;
+    font-size:medium;
+}
+   
+.sign-in:hover{
+    border: none;
+    color: #ff8bff;
+    font-weight: 700;
+    font-size:medium;
+    text-decoration: underline;
+}
+
+.sign-up{
+  
+    color: #ff8bff;
+    font-weight: 700;
+
+}
+.sign-up:hover{
+  
+    background-color: #ff8bff;
+    color: black;
+    cursor: pointer;
+    transition: 0.4s;
+    
+
+}
+
+.Introducing{
+    color: #ff8bff;
+    font-weight: 700;
+    margin-top: 8%;
+}
+
+
+
+
+.intro-pragraph{
+    color: #ff8bff;
+}
+
+.chat-gpt{
+    margin-top: 8%;
+}
