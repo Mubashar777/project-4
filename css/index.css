@@ -90,7 +90,7 @@
 .Introducing{
     color: #ff8bff;
     font-weight: 700;
-    margin-top: 8%;
+    margin-top: 25%;
 }
 
 
@@ -101,5 +101,54 @@
 }
 
 .chat-gpt{
-    margin-top: 8%;
+    margin-top: 15%;
 }
+
+.try-chatgpt{
+    color: #ff8bff;
+    font-weight: 700;
+    outline-color:  #ff8bff;
+    background-color: #ff8bff00;
+    margin-top: 15px;
+}
+
+.try-chatgpt:hover{
+    color:black;
+    font-weight: 700;
+    outline-color:  #ff8bff;
+    background-color: #ff8bff;
+    
+}
+
+.read-about{
+    color: #ff8bff;
+    margin-left: 15px;
+    margin-top: 17px;
+   
+    cursor: pointer;
+}
+
+.read-about:hover{
+    color: #ff8bff;
+    text-decoration: underline;
+    transition: 0.5s;
+   text-underline-offset: gray;
+   cursor: pointer;
+}
+
+.ruby-chen{
+    padding-left:82%;
+    padding-top: 8px;
+    color: #ff8bff;
+    font-size: small;
+    font-weight: 700;
+}
+
+/* section-2 */
+
+.background-2{
+background-color:rgb(23, 56, 23) ;
+height: 45vh;
+width: 100%;
+}
+
