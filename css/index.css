@@ -143,15 +143,6 @@
     font-size: small;
     font-weight: 700;
 }
-
-/* section-2 */
-
-.background-2{
-background-color:rgb(23, 56, 23) ;
-height: 45vh;
-width: 100%;
-}
-
 @media only screen and (max-width: 576px) {
     .background-2{
         background-color:rgb(23, 56, 23) ;
@@ -170,3 +161,12 @@ width: 100%;
     }
     
   }
+
+/* section-2 */
+
+.background-2{
+background-color:rgb(23, 56, 23) ;
+height: 45vh;
+width: 100%;
+}
+
