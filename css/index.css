@@ -152,3 +152,21 @@ height: 45vh;
 width: 100%;
 }
 
+@media only screen and (max-width: 576px) {
+    .background-2{
+        background-color:rgb(23, 56, 23) ;
+        height: 70vh;
+        width: 100%;
+        }
+  }
+
+  @media only screen and (max-width: 576px){
+    .ruby-chen{
+        padding-left:50%;
+        padding-top: 10px;
+        color: #ff8bff;
+        font-size: small;
+        font-weight: 700;
+    }
+    
+  }
