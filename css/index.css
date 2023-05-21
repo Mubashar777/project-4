@@ -177,8 +177,64 @@ width: 100%;
 }
 
 .date-20-may{
-    font-weight: 600;
-    padding-left: 7%;
+    font-weight: 700;
+    padding-left:80px;
     margin-top: 15px;
 }
 
+.authors{
+    padding-left: 40px;
+    font-weight: 800;
+    cursor: pointer;
+    margin-top:35px;
+}
+
+
+
+.open-ai:hover{
+text-decoration: underline;
+text-underline-offset: gray;
+cursor: pointer;
+
+}
+
+.product{
+    
+    padding-left: 450px;
+    cursor: pointer;
+}
+
+.announcements{
+    padding-left: 10px;
+    cursor: pointer;
+}
+
+.product:hover{
+    
+    padding-left: 450px;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.announcements:hover{
+    padding-left: 10px;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+
+@media (max-width: 575px) {
+    .may-20,
+    .authors,
+    .product,
+    .announcements {
+      display: block;
+      text-align: left;
+      margin: 0;
+      padding: 0;
+    }
+    
+    .col {
+      width: 100%;
+    }
+  }
